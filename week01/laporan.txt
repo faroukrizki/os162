@@ -1,0 +1,7 @@
+Today I was learning how to use Linux CLI in Windows using PuTTY. My laptop didn't seem to be able to keep up with the application, it suddenly slowed down to the speed of those that we call Vermeses. Well, I can do nothing about that, so let's get on the topic.
+
+I also learned some commands like creating directories and files so with how to delete them. I never knew that we can dump the output of a command to a file using the > (Greater Than) symbol. It's neat, really.
+
+By the way, not only that! I was also amazed at how useful GitHub is... I mean... I have been working as a Junior Programmer since 4 months ago but, I didn't know what GitHub was D:.
+
+Well, I think that's enough for today. I hope there will be a next time for another interesting story!
